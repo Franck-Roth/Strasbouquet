@@ -3,6 +3,7 @@
 ## Description
 Projet réalisé dans le cadre de la formation PHP Développeur Web à la Wild code school pendant 5 semaines. <br>
 Réalisation d'un site fictif pour un fleuriste Strasbourgeois n'ayant aucune présence sur internet, et n'ayant aucune idée de palette ou de design pour son site. <br>
+
 Cahier des charges non fournis.
 
 ## Equipe
